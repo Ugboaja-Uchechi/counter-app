@@ -1,7 +1,8 @@
-/* body {
-  display: grid;
-  align-items: center;
-} */
+body {
+  background: linear-gradient(90deg, rgba(249,134,184,1) 0%, rgba(136,182,236,1) 89%);
+  transform: translate(0, 70%);
+
+}
 
 div {
   display: grid;
@@ -10,4 +11,18 @@ div {
 
 #display {
   text-align: center;
+}
+
+button {
+  padding: 0.5rem 4.5rem;
+  font-size: 20px;
+}
+
+#increase {
+  margin-bottom: 2rem;
+}
+
+p {
+  font-size: 24px;
+  color: crimson;
 }
