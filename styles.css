@@ -1,0 +1,13 @@
+/* body {
+  display: grid;
+  align-items: center;
+} */
+
+div {
+  display: grid;
+  justify-content: space-around;
+}
+
+#display {
+  text-align: center;
+}
