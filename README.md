@@ -8,6 +8,9 @@ This is a counter app.
 
 - Saves the count once another button is clicked
 
+## Live Link
+[Demo Link](https://ugboaja-uchechi.github.io/counter-app/)
+
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/74814780/141845309-d6311ff6-2180-4a86-9d29-dd40709e38a7.png)
