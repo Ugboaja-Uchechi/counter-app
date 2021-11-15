@@ -16,6 +16,11 @@ div {
 button {
   padding: 0.5rem 4.5rem;
   font-size: 20px;
+  outline: none;
+}
+
+button:hover {
+  cursor: pointer;
 }
 
 #increase {
