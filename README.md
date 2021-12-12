@@ -1,6 +1,6 @@
 # counter-app
 
-This is a counter app.
+This is a counter app the idea was gotten from [Scrimba](https://scrimba.com).
 
 ## Features
 
